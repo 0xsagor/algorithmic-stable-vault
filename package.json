@@ -1,0 +1,8 @@
+{
+  "name": "algorithmic-stable-vault",
+  "version": "1.0.0",
+  "description": "CDP Engine for synthetic stablecoins",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
